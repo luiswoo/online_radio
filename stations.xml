@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps</uri>
+    <name>Вести ФМ</name>
+  </Station>
+  <Station>
+    <uri>https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps</uri>
+    <name>Маяк</name>
+  </Station>
+  <Station>
+    <uri>http://kpradio.hostingradio.ru:8000/64</uri>
+    <name>Комсомолка</name>
+  </Station>
+  <Station>
+    <uri>http://kommersant77.hostingradio.ru:8016/kommersant64.mp3</uri>
+    <name>Комерсант</name>
+  </Station>
+  <Station>
+    <uri>https://icecast-rian.cdnvideo.ru/voicerus</uri>
+    <name>Спутник</name>
+  </Station>
+  <Station>
+    <uri>http://rbcreg.hostingradio.ru/rbc32.aacp</uri>
+    <name>РБК</name>
+  </Station>
+  <Station>
+    <uri>http://bfm.hostingradio.ru:8004/fm64</uri>
+    <name>БФМ</name>
+  </Station>
+  <Station>
+    <uri>http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps</uri>
+    <name>России</name>
+  </Station>
+  <Station>
+    <uri>http://94.181.45.104:8005/</uri>
+    <name>Звукокнига</name>
+  </Station>
+  <Station>
+    <uri>https://nostalgiafm.ru/story</uri>
+    <name>Story FM</name>
+  </Station>
+  <Station>
+    <uri>http://mds-station.com:8000/mds</uri>
+    <name>MDS</name>
+  </Station>
+  <Station>
+    <uri>http://fantasyradioru.no-ip.biz:8002/live</uri>
+    <name>Фантастики</name>
+  </Station>
+  <Station>
+    <uri>http://bookradio.hostingradio.ru:8069/fm</uri>
+    <name>Книга</name>
+  </Station>
+  <Station>
+    <uri>https://listen8.myradio24.com/ripa</uri>
+    <name>Рипа</name>
+  </Station>
+  <Station>
+    <uri>http://195.91.237.50:8000/ices64</uri>
+    <name>Старое</name>
+  </Station>
+  <Station>
+    <uri>http://radiovera.hostingradio.ru:8007/radiovera_64</uri>
+    <name>Вера</name>
+  </Station>
+  <Station>
+    <uri>http://stream.grad-petrov.ru:8093/mp3-40</uri>
+    <name>Град Петров</name>
+  </Station>
+  <Station>
+    <uri>https://icecast-radonezh.cdnvideo.ru/rad</uri>
+    <name>Радонеж 32</name>
+  </Station>
+  <Station>
+    <uri>https://icecast-radonezh.cdnvideo.ru/rad128</uri>
+    <name>Радонеж</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/jazz-64.mp3</uri>
+    <name>Джаз 64</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/jazz-128.mp3</uri>
+    <name>Джаз 128</name>
+  </Station>
+  <Station>
+    <uri>https://www.5-tv.ru/radio.mp3</uri>
+    <name>Петербург</name>
+  </Station>
+  <Station>
+    <uri>http://hermitage.hostingradio.ru/hermitage128.mp3</uri>
+    <name>Эрмитаж</name>
+  </Station>
+  <Station>
+    <uri>http://pub0101.101.ru:8000/stream/pro/aac/64/23</uri>
+    <name>101 Ambient</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/ambient96.aacp</uri>
+    <name>Ambietn</name>
+  </Station>
+  <Station>
+    <uri>http://pub0101.101.ru:8000/stream/pro/aac/64/120</uri>
+    <name>101 New Age</name>
+  </Station>
+  <Station>
+    <uri>http://ic7.101.ru:8000/stream/trust/mp3/128/24</uri>
+    <name>101 Chillout</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/chil96.aacp</uri>
+    <name>Chill-Out</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/lofi96.aacp</uri>
+    <name>Lo-Fi</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/synth96.aacp</uri>
+    <name>Synthwave</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/organic96.aacp</uri>
+    <name>Organic</name>
+  </Station>
+  <Station>
+    <uri>http://icecast.vgtrk.cdnvideo.ru/kulturafm_aac_64kbps</uri>
+    <name>Культура 64</name>
+  </Station>
+  <Station>
+    <uri>http://icecast.vgtrk.cdnvideo.ru:80/kulturafm_mp3_128kbps</uri>
+    <name>Культура 128</name>
+  </Station>
+  <Station>
+    <uri>http://orfeyfm.hostingradio.ru:8034/orfeyfm64.mp3</uri>
+    <name>Орфей 64</name>
+  </Station>
+  <Station>
+    <uri>http://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3</uri>
+    <name>Орфей</name>
+  </Station>
+  <Station>
+    <uri>https://srv01.gpmradio.ru/stream/pro/aac/64/96</uri>
+    <name>Опера</name>
+  </Station>
+  <Station>
+    <uri>http://pub0302.101.ru:8000/stream/pro/aac/64/46</uri>
+    <name>СССР</name>
+  </Station>
+  <Station>
+    <uri>http://icecast-piterfm.cdnvideo.ru/piterfm</uri>
+    <name>Питер FM</name>
+  </Station>
+  <Station>
+    <uri>http://air.radioulitka.ru:8000/ulitka_128</uri>
+    <name>Улитка</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru:443/rock96.aacp</uri>
+    <name>Rock</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/ultra-128.mp3</uri>
+    <name>ULTRA</name>
+  </Station>
+  <Station>
+    <uri>https://maximum.hostingradio.ru/maximum96.aacp</uri>
+    <name>Maximum</name>
+  </Station>
+  <Station>
+    <uri>https://metallica.hostingradio.ru/metallica96.aacp</uri>
+    <name>Metallica</name>
+  </Station>
+  <Station>
+    <uri>https://stream.motoradio.online/lite-mp3</uri>
+    <name>Motor Radio</name>
+  </Station>
+  <Station>
+    <uri>http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3</uri>
+    <name>Capital FM</name>
+  </Station>
+  <Station>
+    <uri>https://emgregion.hostingradio.ru:8064/voronezh.radio7.mp3</uri>
+    <name>Радио_7</name>
+  </Station>
+  <Station>
+    <uri>http://live.borneo.ru:8888/dfm128</uri>
+    <name>DFM</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/discofunk96.aacp</uri>
+    <name>Disco_Funk</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/phonk96.aacp</uri>
+    <name>Phonk</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/ps96.aacp</uri>
+    <name>Pirate Station</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/reggae96.aacp</uri>
+    <name>Reggae</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/technopop96.aacp</uri>
+    <name>Techo Pop</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/trop96.aacp</uri>
+    <name>Tropical</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/latina96.aacp</uri>
+    <name>Latina Dance</name>
+  </Station>
+  <Station>
+    <uri>http://pub0101.101.ru:8000/stream/trust/mp3/128/19</uri>
+    <name>Trance</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/trancehits96.aacp</uri>
+    <name>Trance2</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/armin96.aacp</uri>
+    <name>Trance AVB</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/trancehouse96.aacp</uri>
+    <name>Trancehouse</name>
+  </Station>
+  <Station>
+    <uri>https://radiorecord.hostingradio.ru/ibiza96.aacp</uri>
+    <name>Ibiza</name>
+  </Station>
+  <Station>
+    <uri>https://choco.hostingradio.ru:10010/fm</uri>
+    <name>Шоколад</name>
+  </Station>
+  <Station>
+    <uri>http://ic6.101.ru:8000/stream/pro/aac/64/146</uri>
+    <name>Французкий Шансон</name>
+  </Station>
+</Stations>
