@@ -17,8 +17,6 @@ MDS	http://mds-station.com:8000/mds	0
 Град Петров	http://stream.grad-petrov.ru:8093/mp3-40	0
 Радонеж 32	https://icecast-radonezh.cdnvideo.ru/rad	0
 Радонеж	https://icecast-radonezh.cdnvideo.ru/rad128	0
-Джаз 64	http://nashe1.hostingradio.ru/jazz-64.mp3	0
-Джаз 128	http://nashe1.hostingradio.ru/jazz-128.mp3	0
 Петербург	https://www.5-tv.ru/radio.mp3	0
 Эрмитаж	http://hermitage.hostingradio.ru/hermitage128.mp3	0
 101 Ambient	http://pub0101.101.ru:8000/stream/pro/aac/64/23	0
@@ -38,7 +36,14 @@ Organic	https://radiorecord.hostingradio.ru/organic96.aacp	0
 Питер FM	http://icecast-piterfm.cdnvideo.ru/piterfm	0
 Улитка	http://air.radioulitka.ru:8000/ulitka_128	0
 Rock	https://radiorecord.hostingradio.ru:443/rock96.aacp	0
-ULTRA	http://nashe1.hostingradio.ru/ultra-128.mp3	0
+Наше	http://nashe1.hostingradio.ru/nashe-128.mp3	0
+Наше 64	http://nashe1.hostingradio.ru/nashe-64.mp3	0
+Наше Rock	http://nashe1.hostingradio.ru/rock-128.mp3	0
+Наше Rock 64	http://nashe1.hostingradio.ru/rock-64.mp3	0
+Наше Jazz	http://nashe1.hostingradio.ru/jazz-128.mp3	0
+Наше Jazz 64	http://nashe1.hostingradio.ru/jazz-64.mp3	0
+Наше ULTRA	http://nashe1.hostingradio.ru/ultra-128.mp3	0
+Наше ULTRA 64	http://nashe1.hostingradio.ru/ultra-64.mp3	0
 Maximum	https://maximum.hostingradio.ru/maximum96.aacp	0
 Metallica	https://metallica.hostingradio.ru/metallica96.aacp	0
 Motor Radio	https://stream.motoradio.online/lite-mp3	0
@@ -59,5 +64,3 @@ Trancehouse	https://radiorecord.hostingradio.ru/trancehouse96.aacp	0
 Ibiza	https://radiorecord.hostingradio.ru/ibiza96.aacp	0
 Шоколад	https://choco.hostingradio.ru:10010/fm	0
 Французкий Шансон	http://ic6.101.ru:8000/stream/pro/aac/64/146	0
-
-
