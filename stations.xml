@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<Stations>
+<?xml version="1.0" encoding="UTF-8"?>
+<stations>
   <Station>
     <uri>http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps</uri>
     <name>Вести ФМ</name>
@@ -77,14 +77,6 @@
     <name>Радонеж</name>
   </Station>
   <Station>
-    <uri>http://nashe1.hostingradio.ru/jazz-64.mp3</uri>
-    <name>Джаз 64</name>
-  </Station>
-  <Station>
-    <uri>http://nashe1.hostingradio.ru/jazz-128.mp3</uri>
-    <name>Джаз 128</name>
-  </Station>
-  <Station>
     <uri>https://www.5-tv.ru/radio.mp3</uri>
     <name>Петербург</name>
   </Station>
@@ -98,7 +90,7 @@
   </Station>
   <Station>
     <uri>https://radiorecord.hostingradio.ru/ambient96.aacp</uri>
-    <name>Ambietn</name>
+    <name>Ambient</name>
   </Station>
   <Station>
     <uri>http://pub0101.101.ru:8000/stream/pro/aac/64/120</uri>
@@ -161,8 +153,36 @@
     <name>Rock</name>
   </Station>
   <Station>
+    <uri>http://nashe1.hostingradio.ru/nashe-128.mp3</uri>
+    <name>Наше</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/nashe-64.mp3</uri>
+    <name>Наше 64</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/rock-128.mp3</uri>
+    <name>Наше Rock</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/rock-64.mp3</uri>
+    <name>Наше Rock 64</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/jazz-128.mp3</uri>
+    <name>Наше Jazz</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/jazz-64.mp3</uri>
+    <name>Наше Jazz 64</name>
+  </Station>
+  <Station>
     <uri>http://nashe1.hostingradio.ru/ultra-128.mp3</uri>
-    <name>ULTRA</name>
+    <name>Наше ULTRA</name>
+  </Station>
+  <Station>
+    <uri>http://nashe1.hostingradio.ru/ultra-64.mp3</uri>
+    <name>Наше ULTRA 64</name>
   </Station>
   <Station>
     <uri>https://maximum.hostingradio.ru/maximum96.aacp</uri>
@@ -206,7 +226,7 @@
   </Station>
   <Station>
     <uri>https://radiorecord.hostingradio.ru/technopop96.aacp</uri>
-    <name>Techo Pop</name>
+    <name>Techno Pop</name>
   </Station>
   <Station>
     <uri>https://radiorecord.hostingradio.ru/trop96.aacp</uri>
@@ -244,4 +264,4 @@
     <uri>http://ic6.101.ru:8000/stream/pro/aac/64/146</uri>
     <name>Французкий Шансон</name>
   </Station>
-</Stations>
+</stations>
